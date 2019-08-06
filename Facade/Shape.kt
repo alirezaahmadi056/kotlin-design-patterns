@@ -1,0 +1,6 @@
+
+interface Shape {
+
+    fun draw()
+
+}
